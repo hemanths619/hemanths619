@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Panda_21
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Statistics and its real-time applications
+- 🌱 I’m currently learning Data Science & Business Analytics using Python
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me hemanths619@gmail.com
 
