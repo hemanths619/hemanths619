@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Panda_21
-- 👀 I’m interested in Statistics and its real-time applications
-- 🌱 I’m currently learning Data Science & Business Analytics using Python
+- 👋 Hi, I’m Hemanth Sridhara
+- 🌱 I’m currently working at Zinnov Management Consulting
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me hemanths619@gmail.com
 
