@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hemanth Sridhara
 - 🌱 I’m currently working at Zinnov Management Consulting
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me hemanths619@gmail.com
 
 <!---
